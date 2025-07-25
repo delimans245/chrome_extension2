@@ -1,0 +1,1 @@
+This is what I got for making a chrome extension. I've learned how to use local storage so that if a page is refreshed the app can still hold on to values it already had. I also learned how to clear from local storage as well. On top of that I picked up on how to use the chrome API for getting the current tab that a user may be on.
